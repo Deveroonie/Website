@@ -1,0 +1,26 @@
+<div class="nav">
+    <div class="topnav">
+        <a href="/" class="active">Deveroonie</a>
+        <div id="myLinks">
+          <a href="#news">News</a>
+          <a href="#contact">Contact</a>
+          <a href="#about">About</a>
+        </div>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+          <img src="/assets/img/hamburger-icon.webp" width="15px" height="16px" alt="Hamburger Icon">
+        </a>
+      </div>
+</div>
+
+
+<script>
+    function myFunction() {
+      var x = document.getElementById("myLinks");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+    </script>
+    
