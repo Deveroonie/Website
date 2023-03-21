@@ -93,6 +93,20 @@
     }
 }
 
+
+
+@media screen and(max-width: 952px) {
+    .head_para {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 762px) {
+    .head_para {
+        font-size: 23px;
+    }
+}
+
 * {
     color: white
 }
