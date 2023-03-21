@@ -9,6 +9,6 @@ app.get("/", (req,res) => {
     res.render("pages/index")
 })
 
-app.listen("443", () => {
-    console.log("Started! http://localhost:443")
+app.listen("3000", () => {
+    console.log("Started! http://localhost:3000")
 })
