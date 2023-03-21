@@ -1,6 +1,5 @@
 .grid-container {
   height: 300px; /* set a height for the container to see the effect */
-  grid-template-columns: auto auto;
   width: 100%;
   display: grid;
   grid-template-columns: repeat(2, 1fr);

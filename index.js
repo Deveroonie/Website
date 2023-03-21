@@ -13,6 +13,10 @@ app.get("/projects", (req,res) => {
     res.render("pages/projects")
 })
 
+app.get("/about", (req,res) => {
+    res.render("pages/about")
+})
+
 app.listen("3000", () => {
     console.log("Started! http://localhost:3000")
 })
