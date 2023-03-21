@@ -1,5 +1,5 @@
 # Website
-![Hours Spent](https://img.shields.io/badge/Hours%20spent%20coding-6-brightgreen)
+![Hours Spent](https://img.shields.io/badge/Hours%20spent%20coding-7-brightgreen)
 
 Rewritten version of my website
 
