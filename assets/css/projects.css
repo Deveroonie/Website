@@ -1,0 +1,33 @@
+.grid-container {
+  height: 300px; /* set a height for the container to see the effect */
+  grid-template-columns: auto auto;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 25px;
+}
+
+.grid-item {
+  border: 5px solid #3d3d3d;
+  border-radius: 12px;  padding: 10px;
+  width: 100%;
+  position: relative; 
+  display: table-cell;
+  vertical-align: middle;
+
+}
+
+.projname {
+  text-align: right;
+  font-family: 'Righteous', cursive;
+  font-size: 30px;
+}
+.projdesc {
+  text-align: right;
+}
+img {
+  margin: 0 auto;
+}
+.a:active, a:link, a:visited, a:hover {
+  color: white;
+}

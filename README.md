@@ -1,11 +1,9 @@
 # Website
-![Hours Spent](https://img.shields.io/badge/Hours%20spent%20coding-3-brightgreen)
+![Hours Spent](https://img.shields.io/badge/Hours%20spent%20coding-5-brightgreen)
 
 Rewritten version of my website
 
 [Live site](https://cute-tan-tuna-gear.cyclic.app/)
-
-[Link to the API used](https://github.com/cxllm/tfl-status-api)
 
 *ps it's deployed on cyclic*
 
