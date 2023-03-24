@@ -17,6 +17,10 @@ app.get("/about", (req,res) => {
     res.render("pages/about")
 })
 
+app.get("/privacy", (req,res) => {
+    res.render("pages/privacy")
+})
+
 app.listen("3000", () => {
     console.log("Started! http://localhost:3000")
 })
