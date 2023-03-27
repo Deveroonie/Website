@@ -1,5 +1,5 @@
 # Website
-![Hours Spent](https://img.shields.io/badge/Hours%20spent%20coding-7-brightgreen) ![ToSDR](https://shields.tosdr.org/7734.svg)
+![Hours Spent](https://img.shields.io/badge/Hours%20spent%20coding-7-brightgreen) [![](https://shields.tosdr.org/en_7734.svg)](https://tosdr.org/en/service/7734)
 
 Rewritten version of my website
 
