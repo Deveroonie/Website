@@ -7,7 +7,7 @@ Rewritten version of my website
 
 *ps it's deployed on cyclic*
 
-## Tests (homepage only) Performance: 
+## Tests (homepage only): 
 [GTMetrix](https://gtmetrix.com/) Desktop (Chrome) - Peformance: 92% Structure: 96%
 
 [PageSpeed](https://pagespeed.web.dev) Mobile - 94%, Accessibility: 100%, Best Practises: 92%, SEO: 89%
