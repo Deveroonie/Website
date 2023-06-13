@@ -1,7 +1,7 @@
 name: Empty Commit
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '* */5 * * *'
 jobs:
   comment:
     runs-on: ubuntu-latest
