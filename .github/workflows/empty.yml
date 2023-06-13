@@ -1,0 +1,11 @@
+name: Empty Commit
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - run: git commit -m "Empty Commit"
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
